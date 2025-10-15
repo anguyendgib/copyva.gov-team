@@ -104,10 +104,14 @@ Probing questions:
 
 **"If you wanted to start using the tool, what would you do next?"**
 
+**[Ask this for both parts of Step 1]:
 **"What is your first impression and how are you understanding the information you are looking at?"**
 
 Probing questions:
 - Do you have any questions about the information presented here?
+- How do you feel seeing your personal information here?
+- What are your thoughts on the accuracy of the information presented?
+- Is this what you expected to be here? If no, what did you expect?
 - Are any of the terms used here familar to you? Are there any that are unfamiliar?
 - What is your confidence level in the information presented here?
 - Taking a look around, what [other] actions might you take on this step?
@@ -151,12 +155,14 @@ Probing questions:
 - (When applicable) How are you understanding the PGIB benefits in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
 - What was the most helpful or important information here in helped you understand the recommendation?
 - Was there anything you found confusing about the recommendation? What made it confusing?
+- Is anything missing that you expected to see?
+- How confident are you that this information is accurate?
 
 #### Things to watch for:
 > - Where does the user look first on the recommendation? </br>
 > - Where is the user spending the most time?
 > - Does the user have questions about this process? </br>
-> - (If segmented layout) Does the user notice the "Your Benefits" section? Do they look to it to compare?
+> - (If segmented layout) Does the user notice the "Current Benefits" section? Do they look to it to compare?
 <p>&nbsp;</p>
 
 ## Task 4: Self Review Tool - Step 2 - Your current benefits (5-7 minutes)
